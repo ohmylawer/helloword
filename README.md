@@ -1,3 +1,3 @@
 # helloword
 myfist in github
-I love :basketball:,:LOL:,and :coffee:.
+I love :basketball:,:LOL:,:dancer:,and :coffee:.
